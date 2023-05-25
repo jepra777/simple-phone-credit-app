@@ -16,7 +16,7 @@ date_time DATETIME DEFAULT (datetime('now','localtime'))
 
 3. Insert Data to Table:
 
-insert into data ( phone_number, product, package ) values ( '+6281230010399', 'P', '50000' );
+insert into data ( phone_number, product, package ) values ( '+628123456789', 'P', '50000' );
 
 4. Show Table Data:
 
